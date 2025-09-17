@@ -1,10 +1,10 @@
-// This code verifies some claims made in Example 8.1: log canonical ring of X_ns^+(3)
+// This code verifies some claims made in Example 7.1: log canonical ring of X_ns^+(3)
 
 // LOAD FUNCTIONS
 
 load "functions.m";
 
-// BEGIN EXAMPLE 8.1
+// BEGIN EXAMPLE 7.1
 
 H := normalizerNonsplitCartan(3);
 for tup in [[0, 0], [0, 1728], [2, 0]] do

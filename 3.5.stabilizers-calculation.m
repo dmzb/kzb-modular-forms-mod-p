@@ -1,4 +1,4 @@
-// This code verifies some claims made in the proof of Theorem 7.5 (calculation of stabilizers)
+// This code verifies some claims made in the proof of Theorem 3.5 (calculation of stabilizers)
 
 // DZB: improve this slightly before submitting.
 
